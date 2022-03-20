@@ -1,0 +1,20 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "main": "lib.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Protomo85/automation-ti.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Protomo85/automation-ti/issues"
+  },
+  "homepage": "https://github.com/Protomo85/automation-ti#readme",
+  "description": ""
+}
